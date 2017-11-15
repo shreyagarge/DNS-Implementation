@@ -1,0 +1,17 @@
+abcd.com 8.8.8.8
+efgh.com 12.133.133.12
+ijkl.com 192.2.2.2
+mnop.com 192.40.40.40
+qrst.com 66.66.66.666
+uvw.com 192.34.50.45
+xyz.com 192.33.33.10
+test.com 192.1.1.1
+random.com 192.60.70.80
+foo.com 190.180.170.150
+blah.com 192.22.22.11
+music.com 192.1.1.1
+galleria.com 90.90.90.90
+arts.com 192.45.66.90
+expo.com 192.22.21.10
+find.com 192.78.78.78
+xx xx
